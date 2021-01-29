@@ -53,6 +53,34 @@ We are provided with general information about clients (age, job, etc.) as well 
 You have data about 4000 customers who were contacted during the last campaign and for whom the results of campaign (did the customer buy insurance or not) are known. Let us build machine learning model to help NationWide.
 
 
+### Data Visualization
+
+![](https://github.com/ShivankUdayawal/Regression-on-Car-Insurance-Dataset/blob/main/Data%20Visualization/Age.png)
+
+![](https://github.com/ShivankUdayawal/Regression-on-Car-Insurance-Dataset/blob/main/Data%20Visualization/carinsurance.png)
+
+![](https://github.com/ShivankUdayawal/Regression-on-Car-Insurance-Dataset/blob/main/Data%20Visualization/job.png)
+
+![](https://github.com/ShivankUdayawal/Regression-on-Car-Insurance-Dataset/blob/main/Data%20Visualization/education.png)
+
+![](https://github.com/ShivankUdayawal/Regression-on-Car-Insurance-Dataset/blob/main/Data%20Visualization/marital.png)
+
+![](https://github.com/ShivankUdayawal/Regression-on-Car-Insurance-Dataset/blob/main/Data%20Visualization/agewithinscurance.png)
+
+![](https://github.com/ShivankUdayawal/Regression-on-Car-Insurance-Dataset/blob/main/Data%20Visualization/jobwithinscurance.png)
+
+![](https://github.com/ShivankUdayawal/Regression-on-Car-Insurance-Dataset/blob/main/Data%20Visualization/educationwithinscurance.png)
+
+![](https://github.com/ShivankUdayawal/Regression-on-Car-Insurance-Dataset/blob/main/Data%20Visualization/maritalwithinscurance.png)
+
+![](https://github.com/ShivankUdayawal/Regression-on-Car-Insurance-Dataset/blob/main/Data%20Visualization/pairplot.png)
+
+![](https://github.com/ShivankUdayawal/Regression-on-Car-Insurance-Dataset/blob/main/Data%20Visualization/heatmap.png)
+
+![](https://github.com/ShivankUdayawal/Regression-on-Car-Insurance-Dataset/blob/main/Data%20Visualization/confusionmatrix.png)
+
+
+![](https://github.com/ShivankUdayawal/Regression-on-Car-Insurance-Dataset/blob/main/Data%20Visualization/Roc.png)
 
 
 
